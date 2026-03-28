@@ -50,5 +50,5 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/mohan-pyla-28383540/
+- 📧 Email: pyla.mohan2011@gmail.com
