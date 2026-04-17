@@ -1,0 +1,5 @@
+ CustomerID,MonthlyCharges,ContractType,Tenure,Churn 
+1001,500, Monthly,2,1
+1002,300, Yearly,24,0
+1003,700, Monthly,1,1
+1004,200, Yearly,36,0
