@@ -1,0 +1,36 @@
+{
+  "best_model": "ridge",
+  "rows": 500,
+  "features": [
+    "OverallQual",
+    "GrLivArea",
+    "GarageCars",
+    "TotalBsmtSF",
+    "1stFlrSF",
+    "FullBath",
+    "YearBuilt",
+    "YearRemodAdd",
+    "LotArea",
+    "BedroomAbvGr",
+    "Neighborhood",
+    "HouseStyle"
+  ],
+  "target": "SalePrice",
+  "model_results": {
+    "ridge": {
+      "mae": 15499.86,
+      "rmse": 19531.95,
+      "r2": 0.9149
+    },
+    "random_forest": {
+      "mae": 25082.62,
+      "rmse": 30340.66,
+      "r2": 0.7946
+    },
+    "gradient_boosting": {
+      "mae": 19692.91,
+      "rmse": 24188.34,
+      "r2": 0.8694
+    }
+  }
+}

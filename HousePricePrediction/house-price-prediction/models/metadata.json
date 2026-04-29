@@ -1,0 +1,32 @@
+{
+  "features": [
+    "OverallQual",
+    "GrLivArea",
+    "GarageCars",
+    "TotalBsmtSF",
+    "1stFlrSF",
+    "FullBath",
+    "YearBuilt",
+    "YearRemodAdd",
+    "LotArea",
+    "BedroomAbvGr",
+    "Neighborhood",
+    "HouseStyle"
+  ],
+  "target": "SalePrice",
+  "model_path": "models\\house_price_model.joblib",
+  "expected_schema": {
+    "OverallQual": "int64",
+    "GrLivArea": "int64",
+    "GarageCars": "int64",
+    "TotalBsmtSF": "int64",
+    "1stFlrSF": "int64",
+    "FullBath": "int64",
+    "YearBuilt": "int64",
+    "YearRemodAdd": "int64",
+    "LotArea": "int64",
+    "BedroomAbvGr": "int64",
+    "Neighborhood": "str",
+    "HouseStyle": "str"
+  }
+}
