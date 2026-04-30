@@ -1,0 +1,48 @@
+{
+  "best_k": 2,
+  "rows": 700,
+  "features": [
+    "recency_days",
+    "frequency",
+    "total_quantity",
+    "total_spend",
+    "average_order_value",
+    "unique_products"
+  ],
+  "model_results": {
+    "2": {
+      "silhouette": 0.407,
+      "calinski_harabasz": 618.366,
+      "davies_bouldin": 0.8787,
+      "inertia": 2257.8782
+    },
+    "3": {
+      "silhouette": 0.3672,
+      "calinski_harabasz": 541.6575,
+      "davies_bouldin": 3.2816,
+      "inertia": 1438.9437
+    },
+    "4": {
+      "silhouette": 0.3691,
+      "calinski_harabasz": 941.9252,
+      "davies_bouldin": 0.9874,
+      "inertia": 967.2591
+    },
+    "5": {
+      "silhouette": 0.0654,
+      "calinski_harabasz": 801.9737,
+      "davies_bouldin": 4.0805,
+      "inertia": 718.3071
+    },
+    "6": {
+      "silhouette": 0.0562,
+      "calinski_harabasz": 754.7993,
+      "davies_bouldin": 4.409,
+      "inertia": 615.8493
+    }
+  },
+  "segment_counts": {
+    "Loyal Customers": 432,
+    "Champions": 268
+  }
+}

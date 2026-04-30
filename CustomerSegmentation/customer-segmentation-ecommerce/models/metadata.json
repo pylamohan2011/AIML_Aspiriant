@@ -1,0 +1,23 @@
+{
+  "features": [
+    "recency_days",
+    "frequency",
+    "total_quantity",
+    "total_spend",
+    "average_order_value",
+    "unique_products"
+  ],
+  "segment_map": {
+    "1": "Champions",
+    "0": "Loyal Customers"
+  },
+  "model_path": "models\\customer_segmentation_model.joblib",
+  "example_customer": {
+    "recency_days": 88.0,
+    "frequency": 6.0,
+    "total_quantity": 204.0,
+    "total_spend": 5975.94,
+    "average_order_value": 742.6866666666666,
+    "unique_products": 23.0
+  }
+}
