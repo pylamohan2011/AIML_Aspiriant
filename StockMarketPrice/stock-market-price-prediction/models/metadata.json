@@ -1,0 +1,33 @@
+{
+  "ticker": "AAPL",
+  "features": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "lag_1",
+    "lag_2",
+    "lag_5",
+    "ma_5",
+    "ma_10",
+    "return_1",
+    "volatility_5"
+  ],
+  "target": "target_next_close",
+  "model_path": "models\\stock_price_model.joblib",
+  "latest_feature_row": {
+    "Open": 129.66,
+    "High": 131.98,
+    "Low": 129.1,
+    "Close": 129.96,
+    "Volume": 55704692.0,
+    "lag_1": 128.76,
+    "lag_2": 130.7,
+    "lag_5": 130.32,
+    "ma_5": 130.262,
+    "ma_10": 130.928,
+    "return_1": 0.009319664492078328,
+    "volatility_5": 0.014575988870274286
+  }
+}

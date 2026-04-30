@@ -1,0 +1,41 @@
+{
+  "best_model": "ridge",
+  "ticker": "AAPL",
+  "rows": 890,
+  "features": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "lag_1",
+    "lag_2",
+    "lag_5",
+    "ma_5",
+    "ma_10",
+    "return_1",
+    "volatility_5"
+  ],
+  "target": "target_next_close",
+  "model_results": {
+    "ridge": {
+      "mae": 2.0765,
+      "rmse": 2.6769,
+      "r2": 0.9612,
+      "mape_percent": 1.4248
+    },
+    "random_forest": {
+      "mae": 3.611,
+      "rmse": 4.7968,
+      "r2": 0.8756,
+      "mape_percent": 2.6143
+    },
+    "gradient_boosting": {
+      "mae": 3.7799,
+      "rmse": 5.1882,
+      "r2": 0.8544,
+      "mape_percent": 2.7497
+    }
+  },
+  "last_close": 129.96
+}
