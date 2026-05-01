@@ -1,0 +1,251 @@
+Company,TypeName,Inches,Resolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price_euros
+MSI,Notebook,15.6,3840x2160,AMD Ryzen 5,8,512GB SSD,Nvidia RTX 3050,Windows,2.5,1962.74
+Dell,2 in 1,15.6,2560x1440,AMD Ryzen 7,16,256GB SSD,Intel,Windows,2.0,2201.45
+MSI,2 in 1,13.3,3840x2160,Intel Core i9,16,256GB SSD,Nvidia GTX 1650,Windows,1.3,1427.95
+Dell,Ultrabook,17.3,3840x2160,Intel Core i3,16,512GB SSD,Intel,Linux,2.0,1233.15
+Dell,Workstation,16.0,1366x768,Intel Core i9,4,256GB SSD,Nvidia RTX 3060,Windows,1.6,2049.49
+Apple,Ultrabook,16.0,1366x768,AMD Ryzen 5,8,512GB SSD + 1TB HDD,Nvidia RTX 3050,macOS,2.5,2043.96
+Dell,Workstation,16.0,2560x1440,AMD Ryzen 5,8,512GB SSD + 1TB HDD,Nvidia RTX 4070,Chrome OS,1.3,1954.26
+MSI,Ultrabook,16.0,3840x2160,AMD Ryzen 7,32,1TB SSD,Nvidia RTX 4070,Windows,1.1,2390.54
+HP,Workstation,14.0,2560x1440,Intel Core i3,16,256GB SSD + 1TB HDD,Intel,Linux,2.5,1475.66
+HP,Notebook,14.0,2560x1440,Intel Core i9,8,256GB SSD + 1TB HDD,Nvidia RTX 3060,Chrome OS,2.5,1719.27
+Asus,Gaming,14.0,1920x1080,Intel Core i7,4,1TB SSD,Nvidia RTX 4070,Linux,1.6,1436.57
+Acer,Ultrabook,14.0,1920x1080,Intel Core i9,32,1TB SSD,Nvidia RTX 3060,Linux,1.1,1599.31
+Dell,2 in 1,14.0,3840x2160,Intel Core i9,32,1TB SSD,Nvidia RTX 3060,Windows,1.3,2078.01
+Asus,Ultrabook,17.3,1366x768,AMD Ryzen 7,16,512GB SSD + 1TB HDD,Intel,Chrome OS,2.5,2144.85
+HP,Notebook,13.3,1920x1080,Intel Core i5,8,512GB SSD,Intel,Windows,1.3,813.87
+MSI,Gaming,13.3,1920x1080,Intel Core i9,16,512GB SSD,Nvidia RTX 4070,Chrome OS,1.3,1733.3
+Apple,Ultrabook,16.0,1920x1080,Intel Core i3,16,512GB SSD,Nvidia GTX 1650,Linux,2.0,1094.54
+HP,Notebook,13.3,1920x1080,Intel Core i3,32,1TB SSD,Intel,Linux,1.1,958.81
+Apple,Gaming,16.0,2560x1440,Intel Core i3,8,256GB SSD + 1TB HDD,Nvidia GTX 1650,Chrome OS,2.0,1120.34
+Lenovo,Gaming,15.6,2560x1440,Intel Core i5,32,512GB SSD,Intel,macOS,2.5,1736.84
+Acer,2 in 1,14.0,1366x768,AMD Ryzen 5,4,512GB SSD,Nvidia GTX 1650,Linux,1.3,1877.99
+Asus,Gaming,17.3,3840x2160,Intel Core i5,4,256GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.1,1350.13
+Lenovo,Notebook,17.3,3840x2160,Intel Core i9,4,256GB SSD + 1TB HDD,Nvidia RTX 4070,Chrome OS,2.5,2007.3
+Lenovo,Workstation,17.3,1366x768,Intel Core i7,8,512GB SSD,Nvidia RTX 3050,macOS,1.6,2395.94
+MSI,Gaming,17.3,1366x768,Intel Core i7,16,512GB SSD + 1TB HDD,Nvidia RTX 3050,macOS,1.6,2206.82
+HP,Ultrabook,13.3,1366x768,Intel Core i7,8,1TB SSD,Nvidia RTX 4070,Windows,1.6,1550.21
+Asus,Notebook,16.0,3840x2160,Intel Core i7,8,512GB SSD + 1TB HDD,Intel,Windows,1.6,1313.66
+Asus,Gaming,17.3,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GTX 1650,Chrome OS,2.5,1367.05
+MSI,Gaming,17.3,2560x1440,Intel Core i7,8,512GB SSD,Nvidia RTX 3060,Windows,1.3,1453.52
+Apple,Notebook,15.6,3840x2160,AMD Ryzen 7,4,256GB SSD,Nvidia RTX 3050,Chrome OS,1.3,1784.96
+Lenovo,2 in 1,15.6,2560x1440,AMD Ryzen 5,4,1TB SSD,Nvidia RTX 3050,Linux,1.1,1845.38
+Dell,2 in 1,13.3,1366x768,Intel Core i3,8,256GB SSD,Nvidia RTX 4070,Linux,1.1,1189.17
+Asus,2 in 1,17.3,3840x2160,AMD Ryzen 5,16,256GB SSD,Nvidia RTX 3060,Chrome OS,2.5,2405.51
+Dell,Ultrabook,17.3,1366x768,Intel Core i9,8,256GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,2.0,1716.78
+Asus,Workstation,16.0,3840x2160,Intel Core i3,32,256GB SSD,Nvidia RTX 4070,Chrome OS,1.3,1851.79
+Lenovo,Notebook,14.0,1920x1080,Intel Core i5,4,512GB SSD + 1TB HDD,Intel,macOS,2.0,1221.23
+MSI,2 in 1,15.6,3840x2160,AMD Ryzen 5,8,512GB SSD,Nvidia RTX 3060,Chrome OS,1.1,2010.17
+Acer,Notebook,14.0,1366x768,Intel Core i9,32,1TB SSD,Nvidia RTX 4070,Linux,1.3,2344.14
+Acer,Gaming,14.0,1366x768,Intel Core i7,8,256GB SSD + 1TB HDD,Nvidia RTX 3050,Chrome OS,2.0,1717.93
+Acer,Notebook,15.6,3840x2160,Intel Core i5,4,512GB SSD + 1TB HDD,Nvidia RTX 3060,Linux,2.0,1488.83
+Dell,Notebook,17.3,3840x2160,Intel Core i7,4,1TB SSD,Intel,Linux,2.0,1630.02
+Apple,Gaming,17.3,1920x1080,Intel Core i3,16,512GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.3,1161.57
+HP,Notebook,16.0,1920x1080,Intel Core i9,16,512GB SSD + 1TB HDD,Nvidia GTX 1650,Linux,1.1,1398.76
+Apple,Gaming,17.3,3840x2160,AMD Ryzen 5,4,512GB SSD + 1TB HDD,Nvidia GTX 1650,macOS,2.0,2029.22
+MSI,Ultrabook,14.0,2560x1440,Intel Core i3,8,1TB SSD,Nvidia RTX 4070,macOS,2.5,1610.43
+Lenovo,Ultrabook,15.6,3840x2160,Intel Core i5,32,1TB SSD,Nvidia RTX 3060,macOS,1.6,2050.09
+Lenovo,Ultrabook,15.6,3840x2160,AMD Ryzen 7,32,512GB SSD,Nvidia RTX 4070,Chrome OS,1.1,2510.52
+MSI,Ultrabook,16.0,2560x1440,Intel Core i7,32,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,1.6,1847.14
+Asus,2 in 1,16.0,2560x1440,Intel Core i3,4,256GB SSD + 1TB HDD,Nvidia RTX 3050,Linux,1.1,1039.95
+MSI,Workstation,16.0,1366x768,AMD Ryzen 5,8,1TB SSD,Nvidia RTX 3060,Chrome OS,1.3,2248.51
+Acer,2 in 1,13.3,1366x768,AMD Ryzen 7,4,256GB SSD,Nvidia GTX 1650,Linux,2.0,2197.48
+Apple,Notebook,16.0,1920x1080,Intel Core i3,16,256GB SSD + 1TB HDD,Nvidia GTX 1650,Chrome OS,1.1,1015.15
+Dell,Workstation,17.3,1920x1080,Intel Core i9,32,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,2.5,2826.81
+Apple,Ultrabook,17.3,1366x768,Intel Core i5,4,512GB SSD + 1TB HDD,Intel,Windows,1.3,1191.41
+Asus,Notebook,15.6,1920x1080,Intel Core i7,32,256GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.6,2001.93
+HP,2 in 1,17.3,1366x768,AMD Ryzen 7,32,512GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,2.5,3237.94
+MSI,Gaming,16.0,2560x1440,Intel Core i3,4,1TB SSD,Nvidia RTX 3060,Chrome OS,1.1,1104.18
+Apple,Workstation,17.3,2560x1440,AMD Ryzen 7,8,256GB SSD + 1TB HDD,Nvidia RTX 3050,Linux,2.0,2402.64
+Acer,Notebook,14.0,1366x768,Intel Core i7,32,256GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.1,1753.81
+Acer,Notebook,14.0,3840x2160,AMD Ryzen 7,16,512GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.1,2138.18
+Asus,Notebook,15.6,2560x1440,AMD Ryzen 7,4,1TB SSD,Nvidia RTX 3050,macOS,2.5,2010.77
+Asus,Notebook,15.6,3840x2160,Intel Core i5,16,1TB SSD,Nvidia RTX 3050,Windows,1.1,1423.33
+MSI,Workstation,13.3,2560x1440,Intel Core i9,32,256GB SSD,Intel,Linux,1.1,1742.0
+Acer,Workstation,17.3,1920x1080,AMD Ryzen 5,4,512GB SSD + 1TB HDD,Intel,Windows,1.3,1751.07
+MSI,Workstation,15.6,2560x1440,AMD Ryzen 5,32,256GB SSD,Nvidia RTX 4070,Linux,2.0,2439.34
+MSI,Notebook,13.3,2560x1440,Intel Core i3,32,1TB SSD,Nvidia RTX 4070,Linux,2.0,1721.92
+Apple,Notebook,15.6,1920x1080,Intel Core i5,8,1TB SSD,Nvidia RTX 3050,Linux,1.6,1358.19
+HP,Notebook,13.3,1366x768,Intel Core i3,32,256GB SSD,Intel,Linux,1.3,1301.37
+Lenovo,Workstation,15.6,3840x2160,AMD Ryzen 7,4,256GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,2.0,2246.26
+MSI,Gaming,16.0,1366x768,Intel Core i7,32,256GB SSD,Intel,Linux,1.6,1722.01
+Acer,Workstation,13.3,3840x2160,Intel Core i3,32,512GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,1.6,1610.48
+Dell,Notebook,15.6,1366x768,Intel Core i9,8,512GB SSD,Intel,Windows,1.1,1506.36
+Dell,Workstation,15.6,1920x1080,AMD Ryzen 5,4,512GB SSD + 1TB HDD,Nvidia RTX 3060,Chrome OS,1.6,1925.92
+MSI,Notebook,17.3,2560x1440,AMD Ryzen 7,32,512GB SSD + 1TB HDD,Nvidia RTX 3050,macOS,2.0,3017.04
+Dell,Ultrabook,17.3,2560x1440,Intel Core i7,4,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,1.6,1579.99
+Apple,Ultrabook,13.3,3840x2160,Intel Core i9,32,256GB SSD,Nvidia RTX 4070,Windows,2.0,1862.4
+Apple,Notebook,15.6,1920x1080,AMD Ryzen 5,16,256GB SSD + 1TB HDD,Nvidia GTX 1650,macOS,1.6,1847.04
+Apple,Workstation,14.0,1366x768,Intel Core i3,8,256GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,2.5,1643.05
+Asus,2 in 1,17.3,1920x1080,AMD Ryzen 7,32,1TB SSD,Nvidia GTX 1650,Linux,1.6,2528.75
+HP,Notebook,13.3,3840x2160,AMD Ryzen 5,16,512GB SSD,Nvidia RTX 3060,Chrome OS,1.3,2010.14
+HP,Notebook,14.0,3840x2160,Intel Core i5,32,1TB SSD,Nvidia GTX 1650,Chrome OS,2.5,1736.25
+Acer,Notebook,16.0,3840x2160,AMD Ryzen 7,32,1TB SSD,Nvidia RTX 3060,Windows,2.5,2562.95
+Dell,Notebook,17.3,1366x768,AMD Ryzen 7,16,256GB SSD,Intel,Chrome OS,1.1,2090.98
+MSI,Notebook,13.3,3840x2160,AMD Ryzen 5,32,1TB SSD,Nvidia GTX 1650,Chrome OS,1.3,1970.42
+Asus,Gaming,15.6,3840x2160,AMD Ryzen 7,32,1TB SSD,Nvidia RTX 3060,Linux,2.0,2764.54
+Dell,Workstation,16.0,1366x768,Intel Core i9,8,1TB SSD,Nvidia GTX 1650,Windows,1.6,1889.37
+HP,Gaming,13.3,3840x2160,Intel Core i3,16,512GB SSD,Intel,Chrome OS,2.0,1164.23
+Dell,Gaming,14.0,2560x1440,AMD Ryzen 5,8,256GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.3,1911.85
+MSI,Ultrabook,16.0,3840x2160,Intel Core i9,8,256GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,1.3,1777.09
+Lenovo,Gaming,17.3,1366x768,AMD Ryzen 7,16,1TB SSD,Intel,macOS,1.1,2222.21
+MSI,Gaming,15.6,1366x768,Intel Core i7,16,512GB SSD,Intel,Linux,2.0,1692.47
+Dell,2 in 1,17.3,3840x2160,Intel Core i5,32,256GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,1.6,2191.28
+Asus,Gaming,13.3,1920x1080,Intel Core i9,4,512GB SSD,Intel,Windows,2.0,1136.88
+Lenovo,Workstation,14.0,1920x1080,AMD Ryzen 7,4,256GB SSD,Nvidia RTX 3050,Linux,1.3,1608.06
+Asus,Ultrabook,14.0,3840x2160,AMD Ryzen 5,8,1TB SSD,Nvidia RTX 3060,Windows,1.1,1560.29
+Acer,Gaming,14.0,2560x1440,Intel Core i7,16,512GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,2.0,1879.68
+Apple,Gaming,14.0,1920x1080,AMD Ryzen 5,32,256GB SSD + 1TB HDD,Nvidia RTX 3060,Linux,1.1,1737.73
+HP,Gaming,14.0,2560x1440,Intel Core i5,4,256GB SSD + 1TB HDD,Nvidia RTX 3060,Windows,1.3,1066.42
+HP,Notebook,13.3,2560x1440,Intel Core i5,32,512GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,1.3,2076.06
+Apple,Notebook,17.3,1920x1080,Intel Core i5,4,1TB SSD,Nvidia RTX 3060,Chrome OS,2.5,1435.45
+Dell,Gaming,14.0,1366x768,Intel Core i7,4,512GB SSD,Nvidia GTX 1650,Windows,2.0,1416.48
+MSI,Workstation,17.3,1920x1080,Intel Core i5,32,256GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,1.3,1998.32
+HP,Workstation,16.0,3840x2160,AMD Ryzen 7,8,1TB SSD,Nvidia GTX 1650,Windows,1.6,2196.15
+Dell,Workstation,15.6,1920x1080,AMD Ryzen 7,4,256GB SSD + 1TB HDD,Intel,Windows,1.1,1771.43
+MSI,2 in 1,16.0,2560x1440,Intel Core i5,4,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,1.3,1481.77
+Acer,Workstation,15.6,3840x2160,AMD Ryzen 5,8,512GB SSD,Intel,Windows,1.3,1958.39
+HP,Gaming,13.3,1366x768,Intel Core i7,8,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,1.6,1744.98
+Asus,Workstation,13.3,2560x1440,AMD Ryzen 5,4,256GB SSD,Nvidia RTX 3060,Chrome OS,2.0,2214.8
+HP,2 in 1,17.3,2560x1440,AMD Ryzen 5,4,256GB SSD + 1TB HDD,Nvidia RTX 3060,Linux,2.0,1979.9
+Acer,Ultrabook,17.3,3840x2160,AMD Ryzen 7,8,512GB SSD,Nvidia RTX 3050,macOS,1.1,2086.41
+MSI,Workstation,14.0,2560x1440,AMD Ryzen 5,16,512GB SSD + 1TB HDD,Nvidia RTX 3050,Chrome OS,1.1,2016.15
+MSI,Ultrabook,14.0,3840x2160,Intel Core i7,4,256GB SSD,Intel,Windows,1.1,797.37
+Dell,Notebook,14.0,2560x1440,AMD Ryzen 7,8,256GB SSD,Nvidia GTX 1650,macOS,1.6,1889.15
+MSI,2 in 1,17.3,1920x1080,AMD Ryzen 5,4,256GB SSD + 1TB HDD,Nvidia RTX 3050,Linux,2.5,1821.3
+Apple,Ultrabook,14.0,1366x768,AMD Ryzen 7,32,512GB SSD,Nvidia RTX 4070,Linux,1.6,2179.87
+Acer,Gaming,17.3,1366x768,AMD Ryzen 7,4,512GB SSD + 1TB HDD,Nvidia GTX 1650,Linux,2.0,2266.0
+Lenovo,Gaming,15.6,1920x1080,AMD Ryzen 5,8,512GB SSD + 1TB HDD,Nvidia GTX 1650,Chrome OS,2.0,1811.94
+Dell,Notebook,13.3,2560x1440,Intel Core i3,16,512GB SSD + 1TB HDD,Intel,Linux,1.3,975.67
+Acer,Workstation,16.0,1920x1080,Intel Core i9,16,256GB SSD,Nvidia RTX 3060,Chrome OS,1.6,2161.03
+Acer,Workstation,15.6,1366x768,Intel Core i7,16,512GB SSD + 1TB HDD,Intel,Chrome OS,1.3,1888.23
+Asus,Workstation,13.3,3840x2160,AMD Ryzen 5,4,256GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,2.5,2510.41
+Lenovo,Notebook,16.0,3840x2160,AMD Ryzen 5,8,256GB SSD,Nvidia RTX 3060,macOS,2.5,2395.48
+HP,Notebook,16.0,1366x768,Intel Core i3,4,1TB SSD,Intel,Windows,1.3,988.2
+Lenovo,Notebook,16.0,3840x2160,Intel Core i7,4,512GB SSD,Nvidia RTX 3050,Linux,1.3,1514.11
+Asus,Gaming,17.3,1920x1080,AMD Ryzen 7,8,512GB SSD + 1TB HDD,Nvidia RTX 3060,Linux,1.3,2106.3
+Apple,2 in 1,14.0,1920x1080,Intel Core i5,4,256GB SSD,Nvidia RTX 3060,Windows,2.0,1250.78
+Dell,Gaming,16.0,2560x1440,Intel Core i3,8,256GB SSD + 1TB HDD,Intel,Chrome OS,1.1,685.31
+Acer,Ultrabook,13.3,1920x1080,Intel Core i7,16,512GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,1.1,1046.39
+Asus,Notebook,16.0,3840x2160,AMD Ryzen 5,4,256GB SSD + 1TB HDD,Nvidia RTX 3050,macOS,1.6,1938.78
+Apple,Ultrabook,15.6,2560x1440,AMD Ryzen 7,4,1TB SSD,Nvidia GTX 1650,macOS,2.0,2023.84
+Lenovo,2 in 1,13.3,3840x2160,Intel Core i7,32,512GB SSD + 1TB HDD,Intel,Linux,1.6,1913.61
+Dell,Workstation,14.0,1366x768,AMD Ryzen 7,32,1TB SSD,Nvidia RTX 3050,macOS,2.0,2918.97
+Dell,2 in 1,15.6,2560x1440,Intel Core i3,16,512GB SSD + 1TB HDD,Nvidia RTX 4070,Chrome OS,2.5,1956.75
+Dell,Workstation,15.6,2560x1440,Intel Core i9,8,256GB SSD,Nvidia RTX 4070,macOS,1.6,2157.74
+Apple,Notebook,13.3,1366x768,Intel Core i9,4,256GB SSD + 1TB HDD,Intel,macOS,2.0,1763.67
+Lenovo,Gaming,16.0,2560x1440,Intel Core i7,8,256GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,2.5,1780.62
+Acer,Ultrabook,13.3,1920x1080,Intel Core i9,32,256GB SSD,Nvidia RTX 3050,Windows,1.6,1539.09
+HP,Workstation,14.0,1920x1080,Intel Core i5,4,512GB SSD,Intel,Chrome OS,2.5,1417.82
+HP,Gaming,17.3,1920x1080,Intel Core i9,4,1TB SSD,Nvidia GTX 1650,Linux,1.1,1105.34
+Apple,Workstation,15.6,1920x1080,Intel Core i5,4,1TB SSD,Nvidia RTX 4070,Chrome OS,2.5,1674.89
+Apple,Workstation,15.6,3840x2160,Intel Core i3,4,256GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,2.5,1439.96
+Lenovo,Notebook,16.0,3840x2160,Intel Core i7,32,512GB SSD + 1TB HDD,Intel,Windows,1.6,1919.54
+Apple,2 in 1,16.0,1366x768,Intel Core i5,16,256GB SSD,Intel,macOS,2.5,1665.98
+HP,Ultrabook,15.6,1366x768,Intel Core i3,4,1TB SSD,Nvidia RTX 4070,macOS,1.6,1500.3
+Dell,Gaming,16.0,1920x1080,Intel Core i5,8,512GB SSD,Intel,Chrome OS,2.5,1029.22
+MSI,Notebook,17.3,2560x1440,AMD Ryzen 7,32,512GB SSD,Nvidia GTX 1650,Chrome OS,1.3,2188.59
+Dell,Workstation,15.6,1366x768,AMD Ryzen 7,8,512GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,1.1,2488.59
+HP,Ultrabook,14.0,1366x768,AMD Ryzen 7,32,256GB SSD,Nvidia GTX 1650,macOS,1.1,2264.25
+Asus,Notebook,16.0,2560x1440,Intel Core i3,4,1TB SSD,Nvidia RTX 3060,Chrome OS,1.1,1028.08
+HP,Notebook,15.6,1920x1080,AMD Ryzen 5,16,1TB SSD,Intel,Chrome OS,2.5,1900.95
+MSI,2 in 1,15.6,1920x1080,Intel Core i3,16,512GB SSD + 1TB HDD,Intel,Linux,1.1,986.9
+Lenovo,Workstation,16.0,1920x1080,Intel Core i3,8,512GB SSD + 1TB HDD,Intel,macOS,2.5,1640.09
+Acer,Gaming,14.0,1366x768,Intel Core i9,32,1TB SSD,Nvidia RTX 3060,Windows,2.5,2300.67
+Acer,Workstation,16.0,3840x2160,Intel Core i7,8,1TB SSD,Nvidia RTX 3060,Windows,2.5,1969.31
+Acer,2 in 1,13.3,3840x2160,Intel Core i5,16,1TB SSD,Nvidia RTX 3060,Windows,2.5,1692.13
+Lenovo,2 in 1,17.3,1366x768,AMD Ryzen 7,32,512GB SSD,Nvidia RTX 3060,Linux,2.5,3090.97
+Lenovo,Workstation,14.0,1366x768,Intel Core i7,16,1TB SSD,Intel,macOS,2.0,2003.95
+Acer,Ultrabook,15.6,1366x768,AMD Ryzen 7,8,512GB SSD,Nvidia RTX 4070,Linux,2.0,2354.37
+Apple,Notebook,15.6,3840x2160,AMD Ryzen 7,8,512GB SSD + 1TB HDD,Intel,Chrome OS,2.0,1734.02
+Dell,Gaming,17.3,1920x1080,Intel Core i9,8,256GB SSD,Intel,Windows,1.1,1127.16
+Acer,Gaming,15.6,1920x1080,Intel Core i7,4,256GB SSD,Intel,Windows,1.3,956.88
+HP,Notebook,13.3,2560x1440,Intel Core i7,4,256GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,1.1,1428.4
+HP,Ultrabook,16.0,3840x2160,Intel Core i7,16,512GB SSD,Intel,Windows,1.6,1313.98
+MSI,Ultrabook,14.0,3840x2160,Intel Core i9,8,256GB SSD,Nvidia GTX 1650,macOS,2.0,1659.01
+Acer,Ultrabook,15.6,1366x768,Intel Core i5,4,256GB SSD + 1TB HDD,Nvidia GTX 1650,Linux,2.5,1181.2
+Dell,Ultrabook,13.3,1920x1080,Intel Core i5,4,256GB SSD + 1TB HDD,Nvidia RTX 3060,Windows,2.0,951.86
+MSI,Notebook,16.0,3840x2160,Intel Core i5,8,512GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,2.0,1604.99
+Dell,Notebook,14.0,2560x1440,Intel Core i5,16,1TB SSD,Nvidia GTX 1650,Chrome OS,2.0,1471.65
+Lenovo,Workstation,14.0,1366x768,Intel Core i5,8,512GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.6,1841.48
+Dell,Workstation,15.6,1366x768,Intel Core i3,8,1TB SSD,Nvidia RTX 4070,macOS,1.1,1589.71
+Lenovo,Ultrabook,14.0,3840x2160,AMD Ryzen 7,4,256GB SSD,Nvidia RTX 4070,Chrome OS,1.1,1852.13
+Apple,Workstation,15.6,3840x2160,Intel Core i3,8,1TB SSD,Nvidia GTX 1650,Linux,1.3,1196.04
+Asus,Gaming,14.0,3840x2160,Intel Core i5,16,512GB SSD,Intel,Linux,2.5,1484.86
+Dell,Gaming,14.0,2560x1440,Intel Core i7,16,1TB SSD,Nvidia RTX 3060,Linux,1.3,1355.91
+HP,Gaming,15.6,1366x768,Intel Core i9,32,256GB SSD + 1TB HDD,Nvidia RTX 3060,Chrome OS,1.1,2257.54
+MSI,Gaming,17.3,2560x1440,Intel Core i5,4,256GB SSD + 1TB HDD,Intel,Windows,2.5,1098.69
+HP,Workstation,13.3,1920x1080,Intel Core i5,32,256GB SSD,Nvidia RTX 4070,macOS,2.0,1993.24
+Apple,Notebook,14.0,3840x2160,AMD Ryzen 5,4,512GB SSD,Nvidia RTX 3060,Windows,2.5,1941.27
+Acer,Notebook,16.0,2560x1440,Intel Core i9,16,256GB SSD,Nvidia RTX 4070,Chrome OS,1.3,1824.56
+Asus,Gaming,17.3,1920x1080,Intel Core i7,32,512GB SSD,Nvidia RTX 3060,Chrome OS,2.5,1827.9
+MSI,Notebook,15.6,1920x1080,AMD Ryzen 7,4,256GB SSD,Nvidia GTX 1650,Chrome OS,1.3,1697.36
+Apple,Ultrabook,14.0,3840x2160,Intel Core i9,32,512GB SSD,Intel,Windows,2.5,1791.59
+MSI,Workstation,14.0,2560x1440,Intel Core i7,16,256GB SSD,Nvidia GTX 1650,Chrome OS,1.6,1689.39
+Dell,2 in 1,14.0,1366x768,Intel Core i7,32,1TB SSD,Intel,Linux,2.5,2246.03
+Dell,2 in 1,14.0,1920x1080,Intel Core i7,32,256GB SSD + 1TB HDD,Nvidia RTX 3050,Chrome OS,2.5,2026.01
+Asus,Notebook,16.0,1920x1080,Intel Core i3,32,512GB SSD,Nvidia RTX 4070,Chrome OS,1.1,1669.83
+Asus,Workstation,15.6,3840x2160,Intel Core i3,16,512GB SSD,Nvidia RTX 3050,Linux,2.0,1617.71
+Dell,2 in 1,16.0,1366x768,Intel Core i3,4,512GB SSD,Nvidia RTX 3060,Windows,2.5,1530.93
+Asus,Workstation,14.0,3840x2160,Intel Core i7,16,256GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,2.0,1618.22
+HP,Workstation,15.6,1366x768,Intel Core i5,8,512GB SSD,Intel,Windows,1.6,1528.17
+Lenovo,2 in 1,16.0,2560x1440,Intel Core i9,32,512GB SSD,Nvidia RTX 3050,Linux,2.5,2383.33
+Asus,2 in 1,15.6,3840x2160,Intel Core i7,4,512GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.1,1536.69
+Dell,Ultrabook,17.3,1366x768,Intel Core i7,4,256GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,2.0,2203.43
+Asus,2 in 1,14.0,1920x1080,Intel Core i3,4,1TB SSD,Nvidia GTX 1650,Linux,1.1,845.44
+Apple,Workstation,16.0,1920x1080,Intel Core i5,32,512GB SSD + 1TB HDD,Nvidia GTX 1650,macOS,2.0,1937.45
+Asus,Notebook,17.3,1920x1080,Intel Core i9,4,512GB SSD + 1TB HDD,Intel,Linux,2.5,1421.08
+Apple,Gaming,16.0,3840x2160,AMD Ryzen 7,4,512GB SSD,Nvidia RTX 3050,Linux,1.6,1754.09
+Asus,2 in 1,14.0,1366x768,AMD Ryzen 7,32,512GB SSD + 1TB HDD,Nvidia GTX 1650,Chrome OS,1.3,2250.09
+Lenovo,2 in 1,17.3,1366x768,Intel Core i3,32,1TB SSD,Nvidia RTX 4070,Linux,2.0,2316.99
+Dell,Notebook,15.6,1920x1080,AMD Ryzen 7,8,512GB SSD,Nvidia GTX 1650,macOS,1.3,1718.28
+Apple,Gaming,17.3,1920x1080,Intel Core i7,4,1TB SSD,Intel,Linux,1.6,1165.2
+Acer,2 in 1,16.0,2560x1440,AMD Ryzen 7,32,256GB SSD + 1TB HDD,Nvidia RTX 4070,Linux,1.1,2558.03
+Dell,Ultrabook,16.0,1366x768,Intel Core i5,4,1TB SSD,Intel,macOS,2.0,1425.04
+MSI,Gaming,13.3,2560x1440,Intel Core i7,16,256GB SSD,Nvidia RTX 3050,Linux,1.6,1514.86
+Dell,Ultrabook,13.3,1920x1080,Intel Core i3,4,256GB SSD,Nvidia GTX 1650,Chrome OS,1.3,528.09
+Apple,Notebook,14.0,1920x1080,AMD Ryzen 7,8,256GB SSD,Intel,macOS,1.1,1727.76
+HP,Gaming,14.0,2560x1440,AMD Ryzen 5,4,512GB SSD + 1TB HDD,Intel,Linux,1.1,1158.14
+Dell,Gaming,15.6,2560x1440,Intel Core i5,4,512GB SSD,Nvidia RTX 3060,Linux,2.0,1285.99
+Lenovo,2 in 1,13.3,1366x768,Intel Core i7,8,1TB SSD,Nvidia RTX 4070,macOS,1.6,2216.0
+Lenovo,Gaming,13.3,2560x1440,Intel Core i5,32,512GB SSD,Nvidia RTX 4070,macOS,1.3,1781.15
+Lenovo,Ultrabook,15.6,3840x2160,Intel Core i9,32,512GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,1.6,2331.25
+Apple,Notebook,14.0,3840x2160,Intel Core i3,4,256GB SSD,Nvidia RTX 3050,Linux,2.5,1284.36
+Acer,Ultrabook,13.3,3840x2160,Intel Core i9,8,1TB SSD,Intel,Chrome OS,2.5,1525.92
+MSI,Notebook,14.0,3840x2160,AMD Ryzen 7,4,1TB SSD,Nvidia GTX 1650,macOS,2.5,2345.77
+Acer,Notebook,16.0,1920x1080,Intel Core i7,8,256GB SSD,Nvidia GTX 1650,macOS,2.0,1453.39
+HP,Notebook,13.3,1920x1080,Intel Core i9,8,256GB SSD,Nvidia RTX 3050,Chrome OS,2.5,1562.58
+Asus,Ultrabook,17.3,3840x2160,Intel Core i3,32,256GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.6,1680.52
+Acer,Gaming,13.3,3840x2160,AMD Ryzen 5,32,256GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,1.3,1644.23
+Apple,Notebook,17.3,1920x1080,AMD Ryzen 7,4,256GB SSD + 1TB HDD,Intel,macOS,1.1,1885.98
+HP,Ultrabook,16.0,2560x1440,Intel Core i7,16,256GB SSD + 1TB HDD,Nvidia RTX 3060,Windows,1.6,1558.22
+Apple,2 in 1,13.3,1920x1080,AMD Ryzen 5,8,256GB SSD,Nvidia RTX 4070,Linux,2.5,2225.88
+HP,Workstation,15.6,3840x2160,Intel Core i5,8,256GB SSD + 1TB HDD,Nvidia RTX 3050,Linux,1.3,1724.24
+Acer,Notebook,14.0,2560x1440,Intel Core i9,32,512GB SSD + 1TB HDD,Nvidia RTX 4070,Windows,2.5,2397.04
+Dell,2 in 1,16.0,1366x768,Intel Core i9,32,512GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.6,2490.42
+Asus,Ultrabook,13.3,3840x2160,AMD Ryzen 5,4,512GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,2.5,2019.08
+Acer,Notebook,15.6,3840x2160,Intel Core i5,32,512GB SSD,Intel,Chrome OS,2.0,1543.37
+MSI,Workstation,14.0,3840x2160,Intel Core i7,4,512GB SSD + 1TB HDD,Nvidia GTX 1650,macOS,1.3,1546.3
+Acer,2 in 1,16.0,1920x1080,AMD Ryzen 5,8,256GB SSD + 1TB HDD,Nvidia RTX 3060,macOS,1.6,2023.32
+MSI,Notebook,14.0,1366x768,AMD Ryzen 7,32,1TB SSD,Nvidia RTX 3050,Windows,2.0,2504.52
+Acer,Ultrabook,16.0,3840x2160,Intel Core i7,8,1TB SSD,Nvidia RTX 3050,Windows,1.1,1299.14
+Lenovo,2 in 1,17.3,3840x2160,Intel Core i5,8,512GB SSD + 1TB HDD,Nvidia RTX 3060,Chrome OS,1.1,1662.81
+MSI,Ultrabook,14.0,1920x1080,Intel Core i9,4,256GB SSD,Nvidia RTX 4070,Chrome OS,1.3,1353.94
+Asus,Ultrabook,13.3,2560x1440,AMD Ryzen 7,32,256GB SSD,Nvidia RTX 3060,Linux,2.5,2279.51
+Asus,Notebook,15.6,1366x768,Intel Core i3,8,1TB SSD,Nvidia RTX 4070,Windows,1.6,1414.82
+Dell,2 in 1,15.6,2560x1440,Intel Core i7,4,256GB SSD,Nvidia RTX 3050,Windows,1.3,1474.65
+Asus,Ultrabook,14.0,1366x768,Intel Core i9,4,1TB SSD,Intel,Chrome OS,1.3,1214.71
+Acer,Gaming,17.3,2560x1440,Intel Core i7,16,1TB SSD,Intel,macOS,1.1,1510.35
+Acer,Ultrabook,14.0,1920x1080,Intel Core i7,32,512GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,2.0,1509.6
+Lenovo,Notebook,15.6,1366x768,Intel Core i5,32,1TB SSD,Nvidia RTX 3050,Chrome OS,1.3,1695.81
+Dell,2 in 1,17.3,1366x768,Intel Core i5,32,512GB SSD,Nvidia GTX 1650,Chrome OS,1.1,1979.09
+Dell,Notebook,16.0,3840x2160,Intel Core i7,32,256GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,1.1,1532.47
+MSI,Notebook,15.6,3840x2160,Intel Core i7,8,512GB SSD,Nvidia RTX 4070,Chrome OS,2.5,1768.4
+Acer,Gaming,14.0,3840x2160,AMD Ryzen 5,32,512GB SSD,Intel,Windows,1.1,1567.27
+Asus,Gaming,14.0,2560x1440,AMD Ryzen 7,32,256GB SSD + 1TB HDD,Nvidia RTX 4070,macOS,2.0,2743.92
+Asus,Gaming,17.3,1366x768,Intel Core i5,4,1TB SSD,Nvidia RTX 3050,Chrome OS,1.3,1301.17
+MSI,Gaming,17.3,1920x1080,Intel Core i3,8,256GB SSD + 1TB HDD,Nvidia GTX 1650,Windows,1.1,835.85
+HP,2 in 1,16.0,1920x1080,AMD Ryzen 5,16,256GB SSD + 1TB HDD,Intel,Linux,1.1,1427.61
+Acer,Ultrabook,16.0,1920x1080,Intel Core i5,16,512GB SSD + 1TB HDD,Nvidia RTX 3060,Windows,1.1,1319.08
+Asus,Gaming,16.0,1920x1080,Intel Core i7,16,512GB SSD + 1TB HDD,Nvidia RTX 3050,Windows,1.6,1434.83
+Asus,Notebook,15.6,1366x768,AMD Ryzen 5,8,1TB SSD,Nvidia RTX 3060,Chrome OS,2.0,2184.6

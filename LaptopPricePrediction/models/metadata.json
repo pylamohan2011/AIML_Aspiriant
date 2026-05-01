@@ -1,0 +1,28 @@
+{
+  "features": [
+    "Company",
+    "TypeName",
+    "Inches",
+    "Resolution",
+    "Cpu",
+    "Ram",
+    "Memory",
+    "Gpu",
+    "OpSys",
+    "Weight"
+  ],
+  "target": "Price_euros",
+  "model_path": "models\\laptop_price_model.joblib",
+  "expected_schema": {
+    "Company": "str",
+    "TypeName": "str",
+    "Inches": "float64",
+    "Resolution": "str",
+    "Cpu": "str",
+    "Ram": "int64",
+    "Memory": "str",
+    "Gpu": "str",
+    "OpSys": "str",
+    "Weight": "float64"
+  }
+}
