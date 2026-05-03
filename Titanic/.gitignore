@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.DS_Store
+
+# Optional model and dataset storage (uncomment if you want to keep these files in VCS)
+# models/
+# data/

@@ -1,0 +1,14 @@
+{
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "Pclass",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Sex",
+    "Embarked",
+    "Title"
+  ],
+  "data_source": "sample dataset"
+}
