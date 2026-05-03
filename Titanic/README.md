@@ -51,6 +51,8 @@ Make sure your Kaggle credentials are available as either:
 - environment variables: `KAGGLE_USERNAME` and `KAGGLE_KEY`
 - or `~/.kaggle/kaggle.json`
 
+> Note: `Titanic/data/train.csv` is not committed to GitHub. The repository keeps a placeholder file at `Titanic/data/.gitkeep` so the folder structure is preserved, while the actual dataset is downloaded locally.
+
 If `data/train.csv` is missing, the project falls back to a small sample dataset so the app can still run end to end.
 
 ## Train and evaluate
