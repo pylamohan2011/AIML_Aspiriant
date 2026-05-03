@@ -8,5 +8,7 @@ __pycache__/
 
 # Optional model and dataset storage (uncomment if you want to keep these files in VCS)
 # models/
+# ignore all CSV files in data except the training dataset
 data/*.csv
+!data/train.csv
 !data/.gitkeep
