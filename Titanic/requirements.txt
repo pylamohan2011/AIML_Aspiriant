@@ -6,3 +6,4 @@ fastapi
 uvicorn[standard]
 gradio
 huggingface-hub
+kaggle

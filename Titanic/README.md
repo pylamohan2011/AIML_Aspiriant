@@ -39,6 +39,18 @@ Use the Kaggle Titanic dataset:
 1. Download the Titanic dataset from Kaggle: `titanic/train.csv`
 2. Place it at `titanic/data/train.csv`
 
+Alternatively, if you have Kaggle credentials configured, you can download the dataset automatically:
+
+```powershell
+cd Titanic
+python download_kaggle_data.py --output data
+```
+
+Make sure your Kaggle credentials are available as either:
+
+- environment variables: `KAGGLE_USERNAME` and `KAGGLE_KEY`
+- or `~/.kaggle/kaggle.json`
+
 If `data/train.csv` is missing, the project falls back to a small sample dataset so the app can still run end to end.
 
 ## Train and evaluate
